@@ -35,5 +35,3 @@ Dashboard sederhana untuk membantu mengatur hari-harimu, dibuat sebagai bagian d
 ## Menjalankan secara lokal
 
 Buka `index.html` di browser (Chrome, Firefox, Edge, atau Safari). Tidak perlu build step atau server.
-
-Dibuat dengan 🖤 oleh Meidita — RevoU Coding Camp, Juni 2026
